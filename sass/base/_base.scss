@@ -1,0 +1,28 @@
+// this is partial sass file so it names started with _
+
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	/* change default font size without set to exact number */
+	/* default: 16 => 10/16 x 100 = 62.5 */
+	// this defines what 1rem is
+	font-size: 62.5%;
+}
+
+body {
+	font-family: "Lato", sans-serif;
+	font-weight: 400;
+	/* font-size: 1.6rem; */
+	/* 1.7 bigger than predefined size */
+	line-height: 1.7;
+	color: $color-grey-dark;
+	padding: 3rem;
+
+	box-sizing: border-box;
+}
