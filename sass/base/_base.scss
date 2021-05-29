@@ -13,6 +13,26 @@ html {
 	/* default: 16 => 10/16 x 100 = 62.5 */
 	// this defines what 1rem is
 	font-size: 62.5%;
+
+	// @include respond-phone {
+	// 	font-size: 50%;
+	// }
+
+	@include respond(tab-land) {
+		font-size: 56.25%;
+	}
+
+	@include respond(tab-port) {
+		font-size: 50%;
+	}
+
+	@include respond(phone) {
+		font-size: 30%;
+	}
+
+	@include respond(big-desktop) {
+		font-size: 75%;
+	}
 }
 
 body {
