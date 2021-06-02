@@ -2,7 +2,7 @@
 
 Collection of web design
 
-### [01. Natours](https://emrido.github.io/wdc/01.Natours)
+### [01. Natours](https://emrido.github.io/wdc/01.natours)
 
 ### Bits
 
