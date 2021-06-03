@@ -170,9 +170,6 @@
 		z-index: 1;
 	}
 
-	&__link:hover {
-	}
-
 	&__icon {
 		width: 1.75rem;
 		height: 1.75rem;
@@ -189,4 +186,50 @@
 	color: var(--color-grey-light-4);
 	text-align: center;
 	padding: 2.5rem;
+}
+
+/////////////////////////////////////////////////////
+// GALLERY
+
+.gallery {
+	display: flex;
+
+	&__photo {
+		width: 100%;
+		// to make sure white block below image gone because the default inline block property
+		display: block;
+	}
+}
+
+/////////////////////////////////////////////////////
+// OVERVIEW
+
+.overview {
+	display: flex;
+	// align-items: center;
+
+	&__heading {
+	}
+
+	&__stars {
+		margin-right: auto;
+	}
+
+	&__icon--star,
+	&__icon--location {
+		width: 1.75rem;
+		height: 1.75rem;
+		fill: var(--color-primary);
+	}
+
+	&__location {
+	}
+	&__rating {
+	}
+
+	&__rating--average {
+	}
+
+	&__rating--count {
+	}
 }
