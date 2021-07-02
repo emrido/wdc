@@ -15,3 +15,4 @@ Collection of web design
 - [Rotating Navigation](https://emrido.github.io/wdc/bits/03.rotating-navigation)
 - [Hidden Search](https://emrido.github.io/wdc/bits/04.hidden-search)
 - [Blurry Loading](https://emrido.github.io/wdc/bits/05.blurry-loading)
+- [Scroll Animation](https://emrido.github.io/wdc/bits/06.scroll-animation)
