@@ -16,3 +16,4 @@ Collection of web design
 - [Hidden Search](https://emrido.github.io/wdc/bits/04.hidden-search)
 - [Blurry Loading](https://emrido.github.io/wdc/bits/05.blurry-loading)
 - [Scroll Animation](https://emrido.github.io/wdc/bits/06.scroll-animation)
+- [Split Landing Page](https://emrido.github.io/wdc/bits/07.split-landing-page)
