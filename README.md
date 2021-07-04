@@ -17,3 +17,4 @@ Collection of web design
 - [Blurry Loading](https://emrido.github.io/wdc/bits/05.blurry-loading)
 - [Scroll Animation](https://emrido.github.io/wdc/bits/06.scroll-animation)
 - [Split Landing Page](https://emrido.github.io/wdc/bits/07.split-landing-page)
+- [Form Wave Animation](https://emrido.github.io/wdc/bits/08.form-wave-animation)
